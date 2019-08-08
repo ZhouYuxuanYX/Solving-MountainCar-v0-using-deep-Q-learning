@@ -1,5 +1,5 @@
 # Solving-MountainCar-v0-using-deep-Q-learning
-Keras implementation with workable hyperparameters. It is based on the [implementation][1] 
+Keras implementation with workable hyperparameters. It is based on the implementation for FrozenLake-v0[1]. 
 
 # MountainCar-v0
 As described in [OpenAI's Gym documentation](https://gym.openai.com/envs/MountainCar-v0/):
@@ -12,4 +12,4 @@ Q-learning is an online action-value function learning with an exploration polic
 # References
 [1] https://towardsdatascience.com/reinforcement-learning-w-keras-openai-dqns-1eed3a5338c
 
-http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html
+[2] http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html
