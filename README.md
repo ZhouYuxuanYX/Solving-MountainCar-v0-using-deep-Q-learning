@@ -10,6 +10,6 @@ A car is on a one-dimensional track, positioned between two "mountains". The goa
 Q-learning is an online action-value function learning with an exploration policy (epsilon-greedy is used in this implementation).
 
 # References
-[1]: https://towardsdatascience.com/reinforcement-learning-w-keras-openai-dqns-1eed3a5338c
+[1] https://towardsdatascience.com/reinforcement-learning-w-keras-openai-dqns-1eed3a5338c
 
-[2]: http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html
+http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html
