@@ -1,5 +1,5 @@
 # Solving-MountainCar-v0-using-deep-Q-learning
-Keras implementation with workable hyperparameters
+Keras implementation with workable hyperparameters. It is based on the [implementation][1] 
 
 # MountainCar-v0
 As described in [OpenAI's Gym documentation](https://gym.openai.com/envs/MountainCar-v0/):
@@ -10,6 +10,6 @@ A car is on a one-dimensional track, positioned between two "mountains". The goa
 Q-learning is an online action-value function learning with an exploration policy (epsilon-greedy is used in this implementation).
 
 # References
-https://towardsdatascience.com/reinforcement-learning-w-keras-openai-dqns-1eed3a5338c
+[1]: https://towardsdatascience.com/reinforcement-learning-w-keras-openai-dqns-1eed3a5338c
 
-http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html
+[2]: http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html
