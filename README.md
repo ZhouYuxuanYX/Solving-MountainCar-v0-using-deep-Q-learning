@@ -1,5 +1,5 @@
 # Solving-MountainCar-v0-using-deep-Q-learning
-Keras implementation with workable hyperparameters. It is a reproduce of [1]. 
+Keras implementation with workable hyperparameters. It is a reproduction of [1]. 
 
 # MountainCar-v0
 As described in [OpenAI's Gym documentation](https://gym.openai.com/envs/MountainCar-v0/):
